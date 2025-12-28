@@ -1,5 +1,10 @@
 # 💫 About Me:
-1️⃣ I’m currently working on<br><br>Full-stack web projects using React, Node.js & MongoDB<br><br>Building real-world projects with clean UI & scalable logic<br><br>Experimenting with AI-powered features (automation, smart tools)<br><br>2️⃣ I’m looking to collaborate on<br><br>Open-source Web Development projects<br><br>AI / ML based student or productivity tools<br><br>Hackathons & startup-level project ideas 🚀<br><br>3️⃣ I’m looking for help with<br><br>Advanced backend architecture<br><br>AI/ML integration in real-world web apps<br><br>Writing clean, production-level code<br><br>4️⃣ I’m currently learning<br><br>AI & Machine Learning (practical + project based)<br><br>Advanced JavaScript & React<br><br>Backend optimization & deployment<br><br>5️⃣ Ask me about<br><br>Full-Stack Web Development<br><br>Frontend (React, UI/UX)<br><br>APIs, Databases & Project Structuring<br><br>Beginner-friendly tech guidance 🤝<br><br>6️⃣ Fun Fact 😄<br><br>I believe skills beat luck, and I’m building mine so strong that luck won’t even be needed 💪🔥
+👨‍💻 Full-Stack Web Developer | AI/ML Learner
+🚀 Working on real-world web projects & AI-powered features
+🤝 Open to collaborating on Web, AI & Open-Source projects
+📚 Currently learning advanced JavaScript, React & Machine Learning
+💬 Ask me about Full-Stack Dev, APIs & project building
+⚡ Fun fact: Building skills so strong that luck won’t be needed
 
 
 ## 🌐 Socials:
